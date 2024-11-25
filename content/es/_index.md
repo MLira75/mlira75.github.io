@@ -10,7 +10,7 @@ header_logo: "images/mariana-picture.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Nutri Mariana"
-header_subheadline: "Consulta Nutricional <b>Personalizada</b>"
+header_subheadline: "Consulta Nutricional <b>Personalizada</b><br><i>Tu Salud, a tu Medida</i><br><br><li>Enfoque de Nutrición <b>Amable e Intuitiva</b></li><li>Nutrición en base a tus <b>Necesidades y Posibilidades</b></li><li>Desarrollo de <b>Hábitos Saludables</b> Prácticos y Funcionales</li><br>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
