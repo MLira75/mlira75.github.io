@@ -1,5 +1,5 @@
 ---
-headless: false
+headless: true
 ---
 *Tu Salud, a tu Medida*
 
